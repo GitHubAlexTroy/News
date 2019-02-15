@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alex Troy</string>
+    <string name="android_development">Android Development</string>
+    <string name="student">Student</string>
+    <string name="man">Man</string>
+    <string name="enter_a_message">Enter a message...</string>
+    <string name="send_message">send message</string>
+    <string name="title_activity_news_list">NewsListActivity</string>
+    <string name="news_title_tools">News Title</string>
+    <string name="news_text_tools">News Text</string>
+    <string name="news_date_tools">News Date</string>
+    <string name="news_category_tools">News Category</string>
+</resources>
